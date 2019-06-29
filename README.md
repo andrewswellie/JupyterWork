@@ -1,2 +1,2 @@
 # JupyterWork
-files for Pandas classwork
+Pandas stuff when I need it!
